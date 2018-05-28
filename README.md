@@ -1,4 +1,3 @@
 # hello-world
-
-mijn eerste stappen in de wereld van Github
+Mijn eerste  stappen  in d e  werer 
 hoi mensen 
